@@ -1,0 +1,58 @@
+.img_dt {
+    background: rgb(228, 228, 228);
+    bottom: 0px;
+    color: #fff;
+    left: 0;
+    position: relative;
+    right: 0;
+    width: 100%;
+    overflow: hidden;
+}
+.img_dt input[type="text"] {
+    background: #e4e4e4 none repeat scroll 0 0;
+    border-left: 1px solid #0389A7;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    color: #242424;
+    float: right;
+    padding: 10px;
+    text-transform: capitalize;
+    width: 90%;
+}
+.deleteCheck_box {
+    /*float: left;*/
+    /*left: 10px;*/
+    /*position: relative;*/
+    /*top: 10px;*/
+    /*z-index: 999;*/
+    padding: 10px 6px;
+    background: #5a8dee;
+}
+.img_dt button {
+    background: #ff0000 none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 15px;
+    padding: 10px 15px 10px 0;
+    position: absolute;
+    text-align: right;
+    text-transform: uppercase;
+    width: 35%;
+}
+.secondBox_in input[type="text"] {
+    background: #bbb;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    color: #242424;
+    float: none;
+    padding: 10px;
+    text-transform: capitalize;
+    width: 100%;
+    margin-top: 2px;
+}
